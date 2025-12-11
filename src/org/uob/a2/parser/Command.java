@@ -8,9 +8,8 @@ public abstract class Command {
 
     protected List<String> words;
    
-
-    public Command (List<String> words) {
-       
+    public Command (List<String> words) 
+    {     
         this.words = words;
     }
 

@@ -5,4 +5,11 @@ public enum ResourceType {
     METAL,
     CREDITS,
     //KEEP THE ABOVE FOR TESTING BUT ADD YOUR OWN
+    EGGS,
+    MILK,
+    WHEAT,
+    WOOD,
+    FLOUR,
+    BREAD,
+    TABLEWARE
 }
