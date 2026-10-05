@@ -275,7 +275,3 @@ This project showcases:
 - **Data Persistence** — Saving and loading game state to/from CSV files
 - **Unit Testing with JUnit** — Writing and running tests for framework components
 - **Problem Solving** — Designing interconnected resource systems and debugging complex state management
-
-## License
-
-[Add your preferred license here]
