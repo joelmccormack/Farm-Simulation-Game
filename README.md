@@ -78,7 +78,3 @@ This project demonstrates:
 - Resource and inventory management
 - Season-based game logic
 - Testing complex game state
-
-## License
-
-[Add your preferred license here]
